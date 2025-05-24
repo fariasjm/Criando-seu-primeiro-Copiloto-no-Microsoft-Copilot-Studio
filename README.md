@@ -20,22 +20,12 @@ Resumo passo-a-passo das etapas e formas de criar um Copilot no ambiente do Micr
 ### Criar Copilot baseado em descrição IA (Prompt)
 
 1. Na tela inicial do Copilot Studio, crie um agente com o **prompt**:
+![image](https://github.com/user-attachments/assets/faf2ec1e-8610-4f24-a2ac-b47b99f42535)
 
-<div align="center">
-
-<img src="./assets/criando-modelo-a-partir-de-prompt.png">
-
-</div>
-
-- **Dica:** escrever o prompt em **inglês** pode melhorar significativamente a precisão do agente gerado:
-
-<div align="center">
-
-<img src="./assets/prompt-ingles.png">
-
-</div>
-
-- Após inserir o prompt, será aberta uma interface em formato de **chat**, onde você pode interagir e refinar seu agente:
+2. Escrever o prompt em **inglês** pode melhorar a precisão do agente gerado
+3. Após inserir o prompt, uma interface em formato de **chat** permite interagir e refinar seu agente
+4.
+5. :
 
 <div align="center">
 
