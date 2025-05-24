@@ -29,24 +29,11 @@ Resumo passo-a-passo das etapas e formas de criar um Copilot no ambiente do Micr
 1. No menu lateral esquerdo, clique em **"Criar"**:
 ![image](https://github.com/user-attachments/assets/ad0efd74-aef8-43a0-b691-8fd4acbb5ddb)
 2. Selecione **"Novo agente"**
-
-
-<img src="./assets/novo-agente-vazio.png">
-
-</div>
-
-- Você será levado a uma tela semelhante à de criação com modelo.  
-  Nela, configure seu Copilot com as seguintes informações:
+![image](https://github.com/user-attachments/assets/5c726e9e-48e9-4794-bdb0-4df71fa9e16a)
+3. Na tela de criação com modelo configure seu Copilot com as seguintes informações:
   - **Nome**
   - **Descrição**
   - **Instruções**
   - **Fonte de conhecimento**
-
-- Crie seu Copilot.
-
----
-
-
-
-
+4. Crie seu Copilot.
 
