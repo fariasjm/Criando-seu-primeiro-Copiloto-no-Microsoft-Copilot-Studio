@@ -24,18 +24,9 @@ Resumo passo-a-passo das etapas e formas de criar um Copilot no ambiente do Micr
 
 2. Escrever o prompt em **inglês** pode melhorar a precisão do agente gerado
 3. Após inserir o prompt, uma interface em formato de **chat** permite interagir e refinar seu agente
-4.
-5. :
+![image](https://github.com/user-attachments/assets/e7859610-f60c-4a6e-9730-23071bd3bcb8)
 
-<div align="center">
-
-<img src="./assets/resultado-prompt-ingles.png">
-
-</div>
-
-- Quando você estiver satisfeito com seu agente, clique em **"Criar"**, no canto superior direito.
-
----
+4. Clique em **"Criar"**, no canto superior direito, quando estiver satisfeito com o agente criado. 
 
 
 
